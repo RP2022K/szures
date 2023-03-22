@@ -1,7 +1,7 @@
 
 const doc = {
     wordInput: document.querySelector('#word'),
-    names: document.querySelector('#name')
+    names: document.querySelector('#names')
 }
 
 const state = {
